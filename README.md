@@ -3,11 +3,17 @@
 Aplicativo desktop em **Python + Tkinter** com banco de dados criptografado em **SQLCipher** para gerenciamento seguro de senhas e acessos.  
 Permite cadastrar, editar, excluir e consultar logins de sites, e-mails, programas e outros.
 
+Como usar:
+  Execute o main.py ou converta em um executável utilizando o PyInstaller.
+  Na primeira execução ele deve identificar a senha padrão inicial e pedir para digitar a nova senha, lembre-se de anotar essa senha caso você esqueça não poderá recuperá-la e perderá todos os dados salvos.
+  Importante que o arquivo geral.db fique no mesmo diretório do programa para funcionar.
+  Qualquer dúvida, comentário ou melhoria no código mhps@mhps.com.br
+
 ## 📸 Capturas de Tela
-### Tela de Login
+### Tela de Alteração de Senha Padrão
 ![Tela Login](tela1.jpg)
 
-### Tela de Alteração de Senha Padrão
+### Tela de Login
 ![Tela Alterar Senha](tela2.jpg)
 
 ### Tela Principal
@@ -102,10 +108,7 @@ O arquivo final estará em `dist/main.exe`.
 ---
 
 ## 👨‍💻 Autor
-Projeto desenvolvido por **Aleca (mhps.com.br)**  
-📧 Contato: [seu-email-aqui]
+Projeto desenvolvido por **Carlos Alexandre da Motta (mhps.com.br)**  
+📧 Contato: [mhps@mhps.com.br]
 
----
 
-## 📜 Licença
-Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
