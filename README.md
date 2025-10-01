@@ -1,4 +1,4 @@
-# 🔑 pyPass - Gerenciador de Acessos
+# 🔑 Controle de Acessos
 
 Aplicativo desktop em **Python + Tkinter** com banco de dados criptografado em **SQLCipher** para gerenciamento seguro de senhas e acessos.  
 Permite cadastrar, editar, excluir e consultar logins de sites, e-mails, programas e outros.
